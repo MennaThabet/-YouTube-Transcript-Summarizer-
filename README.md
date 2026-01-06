@@ -15,7 +15,6 @@ It was built as part of an LLM / Generative AI internship to practice data colle
 - Minimal, easy-to-run Python scripts for experimentation.
 
 ## Demo / Example
-```bash
 # Example usage (after installing requirements)
 python summarize_youtube.py "https://www.youtube.com/watch?v=iG9CE55wbtY"
 # Outputs:
